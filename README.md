@@ -1,1 +1,2 @@
 # piasek
+kursorem sypiemy piasek 
